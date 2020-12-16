@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+E:\JOB\Wipro\Full Stack - JAVA\BED 1\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1002769464.index
+4261405763.index
+3942675737.index
+953971456.index
+1068468570.index
+3043239795.index
+125249618.index

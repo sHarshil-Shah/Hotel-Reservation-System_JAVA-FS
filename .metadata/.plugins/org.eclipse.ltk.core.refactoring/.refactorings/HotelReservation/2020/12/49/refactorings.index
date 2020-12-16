@@ -1,0 +1,9 @@
+1607063258928	Rename type 'HotelBean'
+1607063762521	Move 'confirmation.jsp' to 'views'
+1607063766052	Move 'ConfirmReservation.jsp' to 'views'
+1607063768239	Move 'ReservationForm.jsp' to 'views'
+1607160476577	Rename field 'Date'
+1607161965282	Rename field 'dateOfStay'
+1607162892530	Rename field 'Room_Type'
+1607179715665	Delete element
+1607180528916	Rename field 'GuestName'

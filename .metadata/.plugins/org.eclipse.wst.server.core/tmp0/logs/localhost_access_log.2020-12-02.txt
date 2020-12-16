@@ -1,0 +1,8 @@
+127.0.0.1 - - [02/Dec/2020:10:56:33 +0530] "GET / HTTP/1.1" 404 748
+0:0:0:0:0:0:0:1 - - [02/Dec/2020:10:56:36 +0530] "GET /HotelReservation/index.jsp HTTP/1.1" 200 53
+127.0.0.1 - - [02/Dec/2020:12:01:59 +0530] "GET / HTTP/1.1" 404 748
+0:0:0:0:0:0:0:1 - - [02/Dec/2020:12:02:01 +0530] "GET /HotelReservation/index.jsp HTTP/1.1" 200 672
+0:0:0:0:0:0:0:1 - - [02/Dec/2020:12:02:47 +0530] "GET /HotelReservation/index.jsp HTTP/1.1" 200 684
+0:0:0:0:0:0:0:1 - - [02/Dec/2020:12:02:55 +0530] "GET /HotelReservation/index.jsp HTTP/1.1" 200 684
+0:0:0:0:0:0:0:1 - - [02/Dec/2020:12:02:55 +0530] "GET /favicon.ico HTTP/1.1" 404 759
+0:0:0:0:0:0:0:1 - - [02/Dec/2020:12:13:31 +0530] "GET /HotelReservation/index.jsp HTTP/1.1" 500 2933
